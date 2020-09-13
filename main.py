@@ -4,7 +4,7 @@
 import telebot
 
 
-bot = telebot.TeleBot("your_tocken")
+bot = telebot.TeleBot("your_token")
 
 @bot.message_handler(commands=["start"])
 def starting_message(message):
