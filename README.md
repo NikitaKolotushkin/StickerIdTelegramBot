@@ -1,5 +1,5 @@
 # StickerIdTelegramBot
 
-![screenshot](img/screenshot.png)
+Telegram bot that determines the ID of the sent sticker, as well as returns the sticker based on the sent ID
 
-Telegram bot that determines the id of the sent sticker
+![screenshot](img/screenshot.png)
