@@ -2,10 +2,9 @@
 # -*- coding: utf-8 -*-
 
 import telebot
-from tocken import tocken
 
 
-bot = telebot.TeleBot(tocken)
+bot = telebot.TeleBot("your_tocken")
 
 @bot.message_handler(commands=["start"])
 def starting_message(message):
